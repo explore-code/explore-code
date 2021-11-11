@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @explore-code
 - 👀 I’m interested in computer vision, sensor data fusion
-- 🌱 I’m currently learning YOLO object detection
+- 🌱 I’m currently learning object detection, odometry, camera calibration
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
