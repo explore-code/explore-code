@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @explore-code
-- 👀 I’m interested in computer vision, sensor data fusion
-- 🌱 I’m currently learning visual-inertial odometry, structure-from-motion, SLAM
+- 👀 I’m interested in computer vision, sensor data fusion, machine learning
+- 🌱 I’m currently learning SLAM, machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
